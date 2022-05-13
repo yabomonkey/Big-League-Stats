@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/yabom/Downloads/BigLeagueStats/app/src/main/res/layout/activity_league_roster.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/yabom/Downloads/BigLeagueStats/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/yabom/Downloads/BigLeagueStats/app/src/main/res/layout/activity_team_roster.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/yabom/Downloads/BigLeagueStats/app/src/main/res/layout/content_main.xml" value="0.33" />
       </map>
     </option>
