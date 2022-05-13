@@ -7,4 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="baseballwhite">#FFF6F0F0</color>
+    <color name="baseballred">#FFc33b3b</color>
+    <color name="dirtbrown">#FF7e4d32</color>
+    <color name="grassgreen">#FF2e8720</color>
+    <color name="skyblue">#FF79b6ce</color>
 </resources>
